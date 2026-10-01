@@ -1,0 +1,2 @@
+# speckit
+Speckit configurations
